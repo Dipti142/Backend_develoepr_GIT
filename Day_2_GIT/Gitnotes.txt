@@ -1,0 +1,10 @@
+Github and Git Notes
+====================
+
+git Repositay
+--------------
+Repositary is basically a storage space to track your project and also for your day
+to day activity history .
+
+> Its mandatory to manage a projerct to create a Repositary
+> git is a open source a software
