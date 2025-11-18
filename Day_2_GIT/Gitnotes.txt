@@ -8,3 +8,18 @@ to day activity history .
 
 > Its mandatory to manage a projerct to create a Repositary
 > git is a open source a software
+
+stpes: 
+=====
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+hoW To check 
+=============
+
+check status of your code or project : git status
+
+to track the file or folder :git add .
+
+to commit the code or project : git commit -m "commit message"
+
