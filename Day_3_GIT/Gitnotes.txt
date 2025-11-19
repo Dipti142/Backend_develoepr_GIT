@@ -3,3 +3,14 @@ Git branch
 
 basically day to day activity we can perform our using branch
 
+How to check branch on vs code terminal
+
+cmd : git branch
+
+how to change or witch a branch
+
+cmd : git checkout your branch name
+
+How to create a branch on cmd or vs code terminal
+
+cmd : git branch branch name
