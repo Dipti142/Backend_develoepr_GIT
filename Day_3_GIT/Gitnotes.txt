@@ -1,2 +1,5 @@
 Git branch
 ===========
+How to check branch on git
+
+cmd: git branch
