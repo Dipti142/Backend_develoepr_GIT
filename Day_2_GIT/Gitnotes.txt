@@ -23,4 +23,7 @@ to track the file or folder :git add .
 
 to commit the code or project : git commit -m "commit message"
 
-to push the code : git push origin main || git push 
+to push the code : git push origin main || git push
+
+you can change and add anything .
+
