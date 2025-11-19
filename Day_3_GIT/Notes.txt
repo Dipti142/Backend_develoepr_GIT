@@ -1,2 +1,3 @@
 How to creat  a branch on git 
 =============================
+u can create branch either github desktop otherwose git command line .
