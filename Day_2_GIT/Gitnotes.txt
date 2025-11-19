@@ -25,5 +25,5 @@ to commit the code or project : git commit -m "commit message"
 
 to push the code : git push origin main || git push
 
-you can change and add anything .
+you can change and add anything what ever you want.
 
