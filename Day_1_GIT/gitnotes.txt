@@ -3,3 +3,11 @@ what is git and Github
 ======================
 > Git is a open source software any one use Its
 > It is a version control system
+
+How to create a token
+=====================
+you can go to github.com and you can go to tyhe github icon on your right side
+click on it and go to settings and go to developer setting and go to
+click gererate classic tocken give your tocken name and click on create or ok..
+
+
