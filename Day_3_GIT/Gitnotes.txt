@@ -14,3 +14,7 @@ cmd : git checkout your branch name
 How to create a branch on cmd or vs code terminal
 
 cmd : git branch branch name
+
+we will see again today 
+
+we are in main banch 
