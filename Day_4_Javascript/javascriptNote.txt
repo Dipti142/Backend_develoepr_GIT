@@ -1,0 +1,72 @@
+what is whatScript
+=================
+Javascript it is a programming langauge which is used to make website interactively
+
+HTML: Strutcure of the page
+css : design of the page
+Javascript: Brain of the page (Logic+ Functianlaity)
+
+# javacript run v8 enginee .
+
+Why we use Javascript
+======================
+#To make dynamic the website
+#To communicate with the server
+#build application with front end backend and Also Testing
+# To control any action 
+# we can use both in serverside and browser side.
+
+Framework
+=========
+Front end:React, Next ,Angular, vieu Js
+Backend: Node
+
+How js work
+==========
+> by using browser
+> by using server+ database
+
+Aadvantages
+============
+Javascript runs both client side and server side .
+very simple easy to learn 
+very flexibility.
+
+Concept
+=======
+
+Varibale 
+datatypes
+operator
+Conditioanl statement (if , if else , switch , for)
+
+Array & object
+===============
+what is object why we use
+what is array how we perform with array
+
+Functions
+==========
+what is functions declaration and expression
+Arrow functions
+callback functions
+
+
+Asynchronous Javascript
+====================
+Event loop
+call back
+promise
+ayanc and await
+try with catch
+callback hell
+settimeout , set interval...
+
+Eroor handling
+==============
+Try with catch
+
+JSON
+====
+what is json.
+
